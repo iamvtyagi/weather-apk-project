@@ -11,7 +11,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000; /* This sets the overall background color */
+    background: black;
 }
 
 #mainBox {
@@ -21,18 +21,18 @@ html, body {
     color: #fff;
     background: linear-gradient(135deg, #00feba, #5b548a); 
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
 }
 
 #nav-section {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin-top: 30px;
-    
-    padding: 0 16px; /* Ensure content is padded away from edges */
+    padding: 0 16px;
 }
 
 #nav-section input {
@@ -63,6 +63,52 @@ html, body {
 #nav-section button i {
     color: #555;
 }
+
+#img-1 {
+    height: 180px;
+    width: 200px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+#temp {
+    margin-top: 20px;
+    font-size: 70px;
+}
+
+#city {
+    margin-top: 10px;
+    font-size: 35px;
+}
+
+#last-two-image {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#last-two-image img {
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.text-below {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+
 
 
 
