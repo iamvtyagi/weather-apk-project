@@ -1,11 +1,69 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
     font-family: 'Times New Roman', Times, serif;
 }
-html, body{
+
+html, body {
     height: 100%;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000; /* This sets the overall background color */
 }
+
+#mainBox {
+    height: 93vh;
+    width: 30vw;
+    border-radius: 20px;
+    color: #fff;
+    background: linear-gradient(135deg, #00feba, #5b548a); 
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#nav-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    
+    padding: 0 16px; /* Ensure content is padded away from edges */
+}
+
+#nav-section input {
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: #555;
+    padding: 10px 25px;
+    height: 55px;
+    border-radius: 30px;
+    flex: 1;
+    font-size: 20px; 
+}
+
+#nav-section button {
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav-section button i {
+    color: #555;
+}
+
+
+
+
