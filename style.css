@@ -16,7 +16,7 @@ html, body {
 }
 
 #mainBox {
-    width: 80vw; /* Adjusted width */
+    width: 80vw; 
     max-width: 400px;
     border-radius: 20px;
     color: #fff;
@@ -28,7 +28,7 @@ html, body {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease, background 0.3s ease;
     overflow: hidden;
-    margin: 40px 0; /* Added margin for space from top and bottom */
+    margin: 40px 0; 
 }
 
 #mainBox:hover {
@@ -90,7 +90,7 @@ html, body {
 }
 
 #img-1 {
-    width: 120px; /* Adjusted image size */
+    width: 120px; 
     height: 120px;
     border-radius: 20px;
     margin-top: 20px;
@@ -104,21 +104,21 @@ html, body {
 
 #temp {
     margin-top: 20px;
-    font-size: 40px; /* Adjusted font size */
+    font-size: 40px; 
     text-align: center;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 #city {
     margin-top: 10px;
-    font-size: 24px; /* Adjusted font size */
+    font-size: 24px; 
     text-align: center;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 #description {
     margin-top: 10px;
-    font-size: 16px; /* Adjusted font size */
+    font-size: 16px; 
     text-align: center;
     color: #fff;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -130,7 +130,7 @@ html, body {
 }
 
 .info-item {
-    font-size: 16px; /* Adjusted font size */
+    font-size: 16px; 
     color: #fff;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
@@ -165,7 +165,7 @@ html, body {
 
 .text-below {
     margin-top: 10px;
-    font-size: 14px; /* Adjusted font size */
+    font-size: 14px; 
     color: #fff;
     text-align: center;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -173,7 +173,7 @@ html, body {
 
 @media (min-width: 600px) {
     #mainBox {
-        padding: 30px; /* Increased padding */
+        padding: 30px; 
     }
 
     #img-1 {
