@@ -35,21 +35,20 @@ To run this project locally, follow these steps:
 
 
 ## Usage
-Enter the name of a city in the input field.
-Click the search button (magnifying glass icon).
-The app will display the current temperature, humidity, wind speed, and a weather description for the specified city.
+ - Enter the name of a city in the input field.
+ - Click the search button (magnifying glass icon).
+ - The app will display the current temperature, humidity, wind speed, and a weather description for the specified city.
 
 ## Screenshots
-.
-    ![image](https://github.com/user-attachments/assets/a25d3a7e-c68f-4cdb-ba29-c5dfeab15012)
-    ![image](https://github.com/user-attachments/assets/80a6286a-6870-4896-9771-dc2bf55a234f)
+   - ![image](https://github.com/user-attachments/assets/a25d3a7e-c68f-4cdb-ba29-c5dfeab15012)
+   - ![image](https://github.com/user-attachments/assets/80a6286a-6870-4896-9771-dc2bf55a234f)
 
 ## License
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-OpenWeather API for providing weather data.
-Font Awesome for icons.
+- OpenWeather API for providing weather data.
+- Font Awesome for icons.
 
 ## Contributing
 
@@ -71,12 +70,9 @@ We welcome contributions! To get started:
 6.Create a Pull Request on the original repository.
 
 ## Guidelines
- .Follow the project's style.
-  Include clear commit messages.
-  Describe any bugs and fixes.
-
-Thank you for contributing to the Weather App!
-  Feel free to adjust any part further if needed!
+ - Follow the project's style.
+-  Include clear commit messages.
+  - Describe any bugs and fixes.
 
 ## Contact
 
