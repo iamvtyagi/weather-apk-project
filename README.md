@@ -50,7 +50,8 @@ This project is licensed under the MIT License.
 
 ## Contributing
 
-We welcome contributions! To get started:
+We welcome contributions! 
+## To get started:
 
 1. **Fork the Repository**.
 2. **Clone Your Fork**:
