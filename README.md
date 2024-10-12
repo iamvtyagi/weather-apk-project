@@ -1,6 +1,4 @@
-﻿# weather-apk-project
-
- # Weather App
+# Weather App
 
 A simple and interactive weather application built using HTML, CSS, and JavaScript. This app fetches real-time weather data from the OpenWeather API, allowing users to check the weather conditions of their chosen city.
 
