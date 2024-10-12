@@ -25,9 +25,10 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash##
-   git clone <repository-url>
+   git clone <https://github.com/iamvtyagi/weather-apk-project.git>
    
   2. Navigate to the project directory:
+     ```bash##
      cd weather-app
   3. Open index.html in your web browser.
   4. Make sure to replace the placeholder API key in first.js with your own OpenWeather API key. You can get one by signing up at OpenWeather.
