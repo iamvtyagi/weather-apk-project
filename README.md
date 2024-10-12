@@ -78,4 +78,14 @@ We welcome contributions! To get started:
 Thank you for contributing to the Weather App!
   Feel free to adjust any part further if needed!
 
+## Contact
+
+For any inquiries, suggestions, or feedback, feel free to reach out:
+
+- **Email**: vanshjii021@gmail.com
+- **GitHub**: [iamvtyagi](https://github.com/iamvtyagi)
+
+We appreciate your feedback and contributions!
+
+
 
