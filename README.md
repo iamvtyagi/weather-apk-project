@@ -56,7 +56,8 @@ We welcome contributions! To get started:
 2. **Clone Your Fork**:
 
    ```bash
-   git clone <your-fork-url>
+   git clone https://github.com/iamvtyagi/weather-apk-project.git
+>
 3.Create a New Branch:
      git checkout -b my-feature-branch
 
